@@ -6,7 +6,7 @@ ROS(C++)でOpenCVを使用したノードを作るときにテンプレートに
 cv_bridgeとROSのUSBカメラドライバノードが走っている必要があります。  
 **ROS-Indigoで動作します。Hydroでは動くかわかりません。**
 ## インストール
-　　sudo apt-get install ros-indigo-cv-bridge
+    sudo apt-get install ros-indigo-cv-bridge
     cd catkin_ws/src
     git clone https://github.com/k3174r0/ros_OpenCV_Template.git
     cd ../
