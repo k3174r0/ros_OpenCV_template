@@ -8,7 +8,7 @@ cv_bridgeとROSのUSBカメラドライバノードが走っている必要が�
 ## インストール
     sudo apt-get install ros-indigo-cv-bridge
     cd catkin_ws/src
-    git clone https://github.com/k3174r0/ros_OpenCV_Template.git
+    git clone https://github.com/k3174r0/ros_OpenCV_template.git
     cd ../
     catkin make
 ## 使いかた
