@@ -10,7 +10,7 @@ cv_bridgeとROSのUSBカメラドライバノードが走っている必要が�
     cd catkin_ws/src
     git clone https://github.com/k3174r0/ros_OpenCV_template.git
     cd ../
-    catkin make
+    catkin_make
 ## 使いかた
 src/ros_OpenCV_Template.cppのmain関数にOpenCVのコードを書いて実行してください。  
 改変する前に、USBカメラの画像を表示するサンプルプログラムが入ってるので実行して確認してください。
